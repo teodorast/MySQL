@@ -1,7 +1,7 @@
 # MySQL
 This repo is to keep track of the MySQL course
 
-The excercise topics are the following:
+The excercise topics are the following:<br>
 1.Basic CRUD <br>
 2.Built-in functions <br>
 3.Data Aggregations <br>
